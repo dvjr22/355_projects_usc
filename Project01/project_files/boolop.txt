@@ -1,0 +1,8 @@
+# boolop.txt
+# @author Diego Valdes
+# CSCE 355
+# Nov 14, 2017
+
+Build:
+Run:
+ python3 product.py
